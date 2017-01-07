@@ -2,9 +2,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-       id="com.school.myapp" >
+       id="com.school.myapp" 
         versionCode = "3"
-        version="1.1.0" 
+        version="1.1.0" > 
     <name>Shepherd's Path International</name>
   <description>SPIS Mobile app</description>
 
@@ -121,13 +121,13 @@
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
         <param name="SENDER_ID" value="learn-moodle-1159" />
     </gap:plugin>
-    <gap:plugin name="net.tunts.webintent" />
+    <gap:plugin name="ch.ti8m.documenthandler"  spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="learnmoodle" />
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" source="npm" />
-    <gap:plugin name="ch.ti8m.documenthandler" version="0.2.1" />
+	<gap:plugin name="ch.ti8m.documenthandler"  spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
     <gap:plugin name="cordova-plugin-zip" source="npm" />
 
     <gap:config-file platform="android" parent="/manifest">
