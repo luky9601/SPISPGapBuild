@@ -1,7 +1,7 @@
-Moodle Mobile 2.x
+Moodle Mobile 2.x based app
 =================
 
-This is the primary repository of source code for the official Moodle Mobile app version 2.x.
+This is the primary repository of source code for the custom mobile app version 1.1.0.
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
