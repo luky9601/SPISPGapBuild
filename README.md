@@ -1,7 +1,9 @@
 Moodle Mobile 2.x based app
-=================
+============================
 
-This is the primary repository of source code for the custom mobile app version 1.1.0.
+Specially customised for phonegape compatibility file structure so that a mobile app can be generated.
+
+This is the android branch repository of source code for the custom mobile app version 1.1.0.
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
