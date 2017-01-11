@@ -1,4 +1,4 @@
-Moodle Mobile 2.x based app
+Custom Moodle Mobile 2.x based app
 ============================
 
 Specially customised for phonegape compatibility file structure so that a mobile app can be generated.
